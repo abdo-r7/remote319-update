@@ -1,7 +1,7 @@
 {
-  "versionCode": 3100,
-  "versionName": "3.10.0",
+  "versionCode": 3110,
+  "versionName": "3.11.0",
   "size": 53848,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.10.0.apk",
-  "notes": ["ختم آخر فحص يفضل مكتوب.", "ضغطة الفحص ما تتكررش وهي شغالة.", "التثبيت من شاشة أندرويد، مش من سيرفر العربية."]
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.11.0.apk",
+  "notes": ["نتيجة الفحص تظهر شريحة على الشاشة.", "سطر تحت اسم البرنامج يفضل مكتوب.", "رسالة من النظام إن الفحص وصل."]
 }
