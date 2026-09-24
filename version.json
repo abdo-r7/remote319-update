@@ -1,7 +1,12 @@
 {
-  "versionCode": 3110,
-  "versionName": "3.11.0",
-  "size": 53848,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.11.0.apk",
-  "notes": ["نتيجة الفحص تظهر شريحة على الشاشة.", "سطر تحت اسم البرنامج يفضل مكتوب.", "رسالة من النظام إن الفحص وصل."]
+  "versionCode": 3120,
+  "versionName": "3.12.0",
+  "size": 57944,
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.12.0.apk",
+  "notes": [
+    "النبض حي أو نايم أو مقطوع.",
+    "القفل ضغطة، والإيقاف والقيادة ضغطة مطوّلة.",
+    "تم بعد رجوع نفس الحالة من السحابة.",
+    "الخريطة تحت الأزرار، والضبط صفحة."
+  ]
 }
