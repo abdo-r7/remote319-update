@@ -1,9 +1,9 @@
 {
-  "versionCode": 3490,
-  "versionName": "3.49.0",
+  "versionCode": 3500,
+  "versionName": "3.50.0",
   "size": 70232,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.49.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.50.0.apk",
   "notes": [
-    "المساعد ما يكتبش. القفل والفتح والبوق يتنفّذوا من كاردرويد على الوحدة."
+    "المساعد ما يكتبش ولا يلمس الوحدة. كاردرويد بس هو اللي ينفّذ، وبنشوف الخانة اتغيرت ولا لأ."
   ]
 }
