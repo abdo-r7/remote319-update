@@ -1,9 +1,9 @@
 {
-  "versionCode": 3380,
-  "versionName": "3.38.0",
+  "versionCode": 3390,
+  "versionName": "3.39.0",
   "size": 70232,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.38.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.39.0.apk",
   "notes": [
-    "تأكيد القفل من نبضة الوحدة، مش من حالة الشباك."
+    "كل زر ينبض صفر ثم واحد، والعلم ينزل قبل ما يطلع."
   ]
 }
