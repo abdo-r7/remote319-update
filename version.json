@@ -1,12 +1,9 @@
 {
-  "versionCode": 3120,
-  "versionName": "3.12.0",
+  "versionCode": 3130,
+  "versionName": "3.13.0",
   "size": 57944,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.12.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.13.0.apk",
   "notes": [
-    "النبض حي أو نايم أو مقطوع.",
-    "القفل ضغطة، والإيقاف والقيادة ضغطة مطوّلة.",
-    "تم بعد رجوع نفس الحالة من السحابة.",
-    "الخريطة تحت الأزرار، والضبط صفحة."
+    "بعد التثبيت يظهر سطر: أنت على النسخة الجديدة، مرة واحدة ثم صمت."
   ]
 }
