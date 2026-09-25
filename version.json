@@ -1,9 +1,9 @@
 {
-  "versionCode": 3390,
-  "versionName": "3.39.0",
+  "versionCode": 3400,
+  "versionName": "3.40.0",
   "size": 70232,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.39.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.40.0.apk",
   "notes": [
-    "كل زر ينبض صفر ثم واحد، والعلم ينزل قبل ما يطلع."
+    "الأمر يخرج حتى لو علم الاتصال مش متعلم. التنشيط مش شرط."
   ]
 }
