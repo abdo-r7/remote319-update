@@ -1,9 +1,9 @@
 {
-  "versionCode": 3180,
-  "versionName": "3.18.0",
+  "versionCode": 3190,
+  "versionName": "3.19.0",
   "size": 62040,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.18.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.19.0.apk",
   "notes": [
-    "رسمة العربية تعرض الباب والمحرك والليل والتأمين. ثلاث لمبات تتضغط. القفل ما يفتحش الباب وراه. تجميد التلقائي من الإعدادات."
+    "شاشة ترحيب صباحية أو مسائية. سطر الساعة، وبطارية الوحدة تظهر لو الوحدة بتبعتها."
   ]
 }
