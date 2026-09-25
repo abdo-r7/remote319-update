@@ -1,9 +1,9 @@
 {
-  "versionCode": 3200,
-  "versionName": "3.20.0",
+  "versionCode": 3210,
+  "versionName": "3.21.0",
   "size": 62040,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.20.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.21.0.apk",
   "notes": [
-    "صوت مختلف للباب والمحرك والتأمين. أوامر المحرك بالنَبْضة الصحيحة. شاشة التحميل أسرع."
+    "شاشة الترحيب بتقفل لوحدها. اسحب الرسمة: شمال قفل، يمين فتح، فوق قيادة، تحت إيقاف."
   ]
 }
