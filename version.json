@@ -1,9 +1,9 @@
 {
-  "versionCode": 3480,
-  "versionName": "3.48.0",
+  "versionCode": 3490,
+  "versionName": "3.49.0",
   "size": 70232,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.48.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.49.0.apk",
   "notes": [
-    "رجوع لكتابة PUT اللي القفل اشتغل بيها. القيادة من غير باب ومن غير بوق. تأكيد لما الوحدة ترجّع الخانة."
+    "المساعد ما يكتبش. القفل والفتح والبوق يتنفّذوا من كاردرويد على الوحدة."
   ]
 }
