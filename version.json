@@ -1,9 +1,9 @@
 {
-  "versionCode": 3210,
-  "versionName": "3.21.0",
+  "versionCode": 3220,
+  "versionName": "3.22.0",
   "size": 62040,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.21.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.22.0.apk",
   "notes": [
-    "شاشة الترحيب بتقفل لوحدها. اسحب الرسمة: شمال قفل، يمين فتح، فوق قيادة، تحت إيقاف."
+    "شاشة الترحيب اتشالت. مقابض سحب للقفل والفتح والمحرك. أمر القفل ما يبعتش فتح."
   ]
 }
