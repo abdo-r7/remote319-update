@@ -1,9 +1,9 @@
 {
-  "versionCode": 3440,
-  "versionName": "3.44.0",
+  "versionCode": 3450,
+  "versionName": "3.45.0",
   "size": 70232,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.44.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.45.0.apk",
   "notes": [
-    "الأزرار تسلّم الأمر لكاردرويد 1.18.3، والمساعد ما يكتبش على السحابة."
+    "نفس كتابة كاردرويد: PUT على كل خانة، مش تسليم ولا PATCH."
   ]
 }
