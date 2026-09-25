@@ -1,9 +1,9 @@
 {
-  "versionCode": 3400,
-  "versionName": "3.40.0",
+  "versionCode": 3410,
+  "versionName": "3.41.0",
   "size": 70232,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.40.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.41.0.apk",
   "notes": [
-    "الأمر يخرج حتى لو علم الاتصال مش متعلم. التنشيط مش شرط."
+    "المصافحة تشرح مين اللي ما ردش: الموبايل ولا السحابة ولا الوحدة."
   ]
 }
