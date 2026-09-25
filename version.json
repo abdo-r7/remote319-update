@@ -1,9 +1,9 @@
 {
-  "versionCode": 3310,
-  "versionName": "3.31.0",
+  "versionCode": 3320,
+  "versionName": "3.32.0",
   "size": 66136,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.31.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.32.0.apk",
   "notes": [
-    "لوحة اليوم: الكيلومترات وأعلى سرعة والسجل وآخر تغيير."
+    "المساعد يأكد بنفّذ، يقرأ اليوم والاتصال، وينفّذ أمرين، ويسكت لمدة."
   ]
 }
