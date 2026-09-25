@@ -1,9 +1,9 @@
 {
-  "versionCode": 3220,
-  "versionName": "3.22.0",
+  "versionCode": 3230,
+  "versionName": "3.23.0",
   "size": 62040,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.22.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.23.0.apk",
   "notes": [
-    "شاشة الترحيب اتشالت. مقابض سحب للقفل والفتح والمحرك. أمر القفل ما يبعتش فتح."
+    "التحية تحت. سطر البطارية اتشال. القفل ما يتبعتش تاني لو العربية مقفولة."
   ]
 }
