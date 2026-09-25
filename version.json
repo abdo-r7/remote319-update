@@ -1,9 +1,9 @@
 {
-  "versionCode": 3340,
-  "versionName": "3.34.0",
-  "size": 70232,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.34.0.apk",
+  "versionCode": 3350,
+  "versionName": "3.35.0",
+  "size": 66136,
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.35.0.apk",
   "notes": [
-    "الشاشة تفتح من آخر حالة قبل ما الشبكة ترد."
+    "الأوفلاين اتلغى. الأزرار كلها تضرب على السحابة بضغطة واحدة."
   ]
 }
