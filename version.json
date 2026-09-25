@@ -1,9 +1,9 @@
 {
-  "versionCode": 3160,
-  "versionName": "3.16.0",
+  "versionCode": 3170,
+  "versionName": "3.17.0",
   "size": 57944,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.16.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.17.0.apk",
   "notes": [
-    "الأزرار ثابتة تحت الإبهام. الإيصال يسمي الحقل الذي لم يتغير."
+    "الفحص يتم لوحده عند الفتح. زر التحديث يظهر في الرئيسية. الأزرار ترد من أول ضغطة."
   ]
 }
