@@ -1,9 +1,9 @@
 {
-  "versionCode": 3270,
-  "versionName": "3.27.0",
+  "versionCode": 3280,
+  "versionName": "3.28.0",
   "size": 66136,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.27.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.28.0.apk",
   "notes": [
-    "التحديث بيتحمّل جوه البرنامج ويفتح شاشة التثبيت مباشرة."
+    "أوامر Firebase بنفس بروتوكول الأصل. الأوفلاين يقرأ صفحة الوحدة كاملة."
   ]
 }
