@@ -1,9 +1,9 @@
 {
-  "versionCode": 3420,
-  "versionName": "3.42.0",
+  "versionCode": 3430,
+  "versionName": "3.43.0",
   "size": 70232,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.42.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.43.0.apk",
   "notes": [
-    "الشاشة تقول تقرير الوحدة: الواي فاي مش كفاية، والمكان مش يتجدد وهو قديم."
+    "الأمر يتكتب ويستنى رد الوحدة دقيقة، من غير ما الشريط يحمر بعد ثانيتين."
   ]
 }
