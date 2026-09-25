@@ -1,9 +1,9 @@
 {
-  "versionCode": 3330,
-  "versionName": "3.33.0",
-  "size": 66136,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.33.0.apk",
+  "versionCode": 3340,
+  "versionName": "3.34.0",
+  "size": 70232,
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.34.0.apk",
   "notes": [
-    "حارس الخروج والباب المفتوح، إيصال الأمر، أسبوع الرحلات، وورشة مؤقتة."
+    "الشاشة تفتح من آخر حالة قبل ما الشبكة ترد."
   ]
 }
