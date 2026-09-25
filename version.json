@@ -1,9 +1,9 @@
 {
-  "versionCode": 3130,
-  "versionName": "3.13.0",
+  "versionCode": 3140,
+  "versionName": "3.14.0",
   "size": 57944,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.13.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.14.0.apk",
   "notes": [
-    "بعد التثبيت يظهر سطر: أنت على النسخة الجديدة، مرة واحدة ثم صمت."
+    "الباب والمحرك من حالة الوحدة، مش من مفتاح الأمر. حي فقط لو الوحدة معلّمة متصلة. القراءة كل ثانيتين."
   ]
 }
