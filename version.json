@@ -1,9 +1,9 @@
 {
-  "versionCode": 3290,
-  "versionName": "3.29.0",
+  "versionCode": 3300,
+  "versionName": "3.30.0",
   "size": 66136,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.29.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.30.0.apk",
   "notes": [
-    "اتشالت البصمة. تغيير الباب أو المحرك من المفتاح يظهر إشعار من المفتاح."
+    "اتشالت البصمة الداخلية. بصمة الموبايل قبل تشغيل المحرك رجعت."
   ]
 }
