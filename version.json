@@ -1,9 +1,9 @@
 {
-  "versionCode": 3240,
-  "versionName": "3.24.0",
+  "versionCode": 3250,
+  "versionName": "3.25.0",
   "size": 62040,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.24.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.25.0.apk",
   "notes": [
-    "سبب الاتصال وآخر ظهور بالساعة. زر تنشيط. أي أمر يتفحص الوحدة قبل ما يخرج."
+    "إشعار واحد بعد ٣ فشلات. مدة رد الوحدة بالميلي ثانية."
   ]
 }
