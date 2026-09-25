@@ -1,9 +1,9 @@
 {
-  "versionCode": 3250,
-  "versionName": "3.25.0",
-  "size": 62040,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.25.0.apk",
+  "versionCode": 3260,
+  "versionName": "3.26.0",
+  "size": 66136,
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.26.0.apk",
   "notes": [
-    "إشعار واحد بعد ٣ فشلات. مدة رد الوحدة بالميلي ثانية."
+    "التحديث بيتحمّل جوه البرنامج ويفتح شاشة التثبيت مباشرة."
   ]
 }
