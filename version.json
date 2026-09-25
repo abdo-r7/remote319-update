@@ -1,9 +1,9 @@
 {
-  "versionCode": 3470,
-  "versionName": "3.47.0",
+  "versionCode": 3480,
+  "versionName": "3.48.0",
   "size": 70232,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.47.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.48.0.apk",
   "notes": [
-    "أوامر برنامج كاردرويد الأصلي 1.0.3. القيادة من غير فتح أبواب ومن غير بوق."
+    "رجوع لكتابة PUT اللي القفل اشتغل بيها. القيادة من غير باب ومن غير بوق. تأكيد لما الوحدة ترجّع الخانة."
   ]
 }
