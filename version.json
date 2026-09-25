@@ -1,9 +1,9 @@
 {
-  "versionCode": 3450,
-  "versionName": "3.45.0",
+  "versionCode": 3460,
+  "versionName": "3.46.0",
   "size": 70232,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.45.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.46.0.apk",
   "notes": [
-    "نفس كتابة كاردرويد: PUT على كل خانة، مش تسليم ولا PATCH."
+    "التأمين ما يعيدش البوق. القيادة ترجع نبضة الفتح بعد ما تخلّص."
   ]
 }
