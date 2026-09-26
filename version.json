@@ -1,9 +1,9 @@
 {
-  "versionCode": 3730,
-  "versionName": "3.73.0",
+  "versionCode": 3740,
+  "versionName": "3.74.0",
   "size": 1532994,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.73.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.74.0.apk",
   "notes": [
-    "واجهة مباشر منفصلة. أوامر السحابة تقف وأنت على شبكة الوحدة."
+    "خمسون قاعدة فاصلة بين السحابة والمباشر، من غير تخمين أكواد."
   ]
 }
