@@ -1,9 +1,9 @@
 {
-  "versionCode": 3860,
-  "versionName": "3.86.0",
+  "versionCode": 3870,
+  "versionName": "3.87.0",
   "size": 1532994,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.86.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.87.0.apk",
   "notes": [
-    "سطر تفاصيل تحت الرسمة، والمساعد يقول نفس الحالة."
+    "شاشة ترحيب تظهر وتتشال، مش بتفضل فوق الأزرار."
   ]
 }
