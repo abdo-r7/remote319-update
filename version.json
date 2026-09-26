@@ -1,9 +1,9 @@
 {
-  "versionCode": 3780,
-  "versionName": "3.78.0",
+  "versionCode": 3790,
+  "versionName": "3.79.0",
   "size": 1532994,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.78.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.79.0.apk",
   "notes": [
-    "رسمة أصغر كاملة، أيقونة أونلاين، شريط الأدوات فوق."
+    "ترحيب يختفي، وحركة وصوت على الباب والمحرك من غير ما يغطوا الأزرار."
   ]
 }
