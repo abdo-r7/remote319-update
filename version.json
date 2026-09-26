@@ -1,9 +1,9 @@
 {
-  "versionCode": 3830,
-  "versionName": "3.83.0",
+  "versionCode": 3840,
+  "versionName": "3.84.0",
   "size": 1532994,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.83.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.84.0.apk",
   "notes": [
-    "تنسيق واحد للرسالة والأزرار والخانات، والوصفة زي ما هي."
+    "خانات متساوية، والفراغ الفاضي تحت الرسمة اتشال."
   ]
 }
