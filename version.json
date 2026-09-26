@@ -1,9 +1,9 @@
 {
-  "versionCode": 3510,
-  "versionName": "3.51.0",
+  "versionCode": 3520,
+  "versionName": "3.52.0",
   "size": 70232,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.51.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.52.0.apk",
   "notes": [
-    "كاردرويد 1.18.3 هو اللي ينفّذ القفل والفتح والبوق. المساعد يسلّم فقط."
+    "القفل والفتح والبوق يروحوا لكاردرويد 1.18.3. لو النسخة مش 1.18.3 الأمر يتكتب بنفس الوصفة."
   ]
 }
