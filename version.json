@@ -1,9 +1,9 @@
 {
-  "versionCode": 3930,
-  "versionName": "3.93.0",
+  "versionCode": 3940,
+  "versionName": "3.94.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.93.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.94.0.apk",
   "notes": [
-    "رجوع النبضة يتحسب لو الوحدة مسحتها أثناء الكتابة، وكل خطوة ليها اسم لو فشلت."
+    "أزرار الأوفلاين الأصلية تظهر لما الوحدة ترد."
   ]
 }
