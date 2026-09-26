@@ -1,9 +1,9 @@
 {
-  "versionCode": 3920,
-  "versionName": "3.92.0",
+  "versionCode": 3930,
+  "versionName": "3.93.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.92.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.93.0.apk",
   "notes": [
-    "علم الوحدة ينزل لصفر قبل ما يطلع، عشان الحافة تتشاف."
+    "رجوع النبضة يتحسب لو الوحدة مسحتها أثناء الكتابة، وكل خطوة ليها اسم لو فشلت."
   ]
 }
