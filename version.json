@@ -1,9 +1,9 @@
 {
-  "versionCode": 3670,
-  "versionName": "3.67.0",
+  "versionCode": 3680,
+  "versionName": "3.68.0",
   "size": 1528898,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.67.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.68.0.apk",
   "notes": [
-    "خيارات واسعة: ضيف، رجوع، طريق، بيت، ومسافة."
+    "الأوامر رجعت لوصفة التطبيق الأصلي: قفل، بوق، وقيادة."
   ]
 }
