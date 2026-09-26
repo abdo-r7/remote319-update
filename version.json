@@ -1,9 +1,9 @@
 {
-  "versionCode": 3571,
-  "versionName": "3.57.1",
+  "versionCode": 3580,
+  "versionName": "3.58.0",
   "size": 74393,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.57.1.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.58.0.apk",
   "notes": [
-    "اتشالت أزرار كاردرويد والموافقة التلقائية، واتصلح سطر السجل الفاضي."
+    "جملة واحدة تحت العربية، تفاصيل عربية، سجل بلا تكرار، والزر يرجع غامق بعد 15 ثانية."
   ]
 }
