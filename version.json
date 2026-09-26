@@ -1,9 +1,9 @@
 {
-  "versionCode": 3750,
-  "versionName": "3.75.0",
+  "versionCode": 3760,
+  "versionName": "3.76.0",
   "size": 1532994,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.75.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.76.0.apk",
   "notes": [
-    "الباب والمحرك تحت مع الإيصال. الخريطة صفحة مستقلة وتتبع المكان لحظيًا."
+    "رسمة العربية كاملة من غير قص تحت الشريط."
   ]
 }
