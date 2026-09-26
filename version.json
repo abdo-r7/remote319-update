@@ -1,9 +1,9 @@
 {
-  "versionCode": 3620,
-  "versionName": "3.62.0",
-  "size": 2347883,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.62.0.apk",
+  "versionCode": 3630,
+  "versionName": "3.63.0",
+  "size": 1545282,
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.63.0.apk",
   "notes": [
-    "الباب يتفتح ويتقفل كرسمة، والمحرك يبان على العربية، من غير إطار بيضاوي."
+    "أيقونات بدون كتابة، حركة الباب على ثلاث لقطات، وأصوات بعد النبضة."
   ]
 }
