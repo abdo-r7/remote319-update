@@ -1,9 +1,9 @@
 {
-  "versionCode": 3550,
-  "versionName": "3.55.0",
+  "versionCode": 3551,
+  "versionName": "3.55.1",
   "size": 74393,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.55.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.55.1.apk",
   "notes": [
-    "قيادة من غير ما تفتح كاردرويد: الموافقة التلقائية تضغط أيوه. القفل والفتح من بابه. حالة الباب والمحرك من السحابة."
+    "قيادة: الموافقة التلقائية تضغط أيوه. القفل والفتح من باب كاردرويد. حالة الباب والمحرك من السحابة."
   ]
 }
