@@ -1,9 +1,9 @@
 {
-  "versionCode": 3570,
-  "versionName": "3.57.0",
+  "versionCode": 3571,
+  "versionName": "3.57.1",
   "size": 74393,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.57.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.57.1.apk",
   "notes": [
-    "الريموت يكتب بنفسه. نفّذ فقط لما الوحدة ترجّع النبضة. امسح كاردرويد بعد التثبيت."
+    "اتشالت أزرار كاردرويد والموافقة التلقائية، واتصلح سطر السجل الفاضي."
   ]
 }
