@@ -1,9 +1,9 @@
 {
-  "versionCode": 3530,
-  "versionName": "3.53.0",
+  "versionCode": 3540,
+  "versionName": "3.54.0",
   "size": 70232,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.53.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.54.0.apk",
   "notes": [
-    "ضغطة واحدة، لون فوري، وحالة الباب من السحابة. التسخين والصندوق اتشالوا من الشاشة."
+    "القفل والفتح يروحوا لباب كاردرويد في الخلفية من غير ما الشاشة تفتح أو تعلق."
   ]
 }
