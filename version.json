@@ -1,9 +1,9 @@
 {
-  "versionCode": 3740,
-  "versionName": "3.74.0",
+  "versionCode": 3750,
+  "versionName": "3.75.0",
   "size": 1532994,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.74.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.75.0.apk",
   "notes": [
-    "خمسون قاعدة فاصلة بين السحابة والمباشر، من غير تخمين أكواد."
+    "الباب والمحرك تحت مع الإيصال. الخريطة صفحة مستقلة وتتبع المكان لحظيًا."
   ]
 }
