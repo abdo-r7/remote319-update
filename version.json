@@ -1,9 +1,9 @@
 {
-  "versionCode": 3910,
-  "versionName": "3.91.0",
+  "versionCode": 3920,
+  "versionName": "3.92.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.91.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.92.0.apk",
   "notes": [
-    "النت يتسجل لما بيانات الوحدة تتغير فعلاً، مش كل قراءة."
+    "علم الوحدة ينزل لصفر قبل ما يطلع، عشان الحافة تتشاف."
   ]
 }
