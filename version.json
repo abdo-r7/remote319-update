@@ -1,9 +1,9 @@
 {
-  "versionCode": 3900,
-  "versionName": "3.90.0",
-  "size": 1532994,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.90.0.apk",
+  "versionCode": 3910,
+  "versionName": "3.91.0",
+  "size": 1537090,
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.91.0.apk",
   "notes": [
-    "حالة نت الوحدة ظاهرة لوحدها، ورجوع النبضة يتقرا من نفس ورقة الأصل."
+    "النت يتسجل لما بيانات الوحدة تتغير فعلاً، مش كل قراءة."
   ]
 }
