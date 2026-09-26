@@ -1,9 +1,9 @@
 {
-  "versionCode": 3540,
-  "versionName": "3.54.0",
-  "size": 70232,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.54.0.apk",
+  "versionCode": 3550,
+  "versionName": "3.55.0",
+  "size": 74393,
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.55.0.apk",
   "notes": [
-    "القفل والفتح يروحوا لباب كاردرويد في الخلفية من غير ما الشاشة تفتح أو تعلق."
+    "قيادة من غير ما تفتح كاردرويد: الموافقة التلقائية تضغط أيوه. القفل والفتح من بابه. حالة الباب والمحرك من السحابة."
   ]
 }
