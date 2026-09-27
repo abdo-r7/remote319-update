@@ -1,9 +1,9 @@
 {
-  "versionCode": 4400,
-  "versionName": "4.4.0",
+  "versionCode": 4500,
+  "versionName": "4.5.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.4.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.5.0.apk",
   "notes": [
-    "الأمر ما يقفش على ظرف مش موجود في الأصل، والأوفلاين من أيقونة السحابة."
+    "نبضة الأبواب على ورقة h زي الأصل، والزر يبعت حتى لو الحالة محفوظة."
   ]
 }
