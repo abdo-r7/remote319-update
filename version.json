@@ -1,9 +1,9 @@
 {
-  "versionCode": 3960,
-  "versionName": "3.96.0",
+  "versionCode": 3970,
+  "versionName": "3.97.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.96.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.97.0.apk",
   "notes": [
-    "الزر يفضل لونه خارج لحد ما النبضة تخلّص، وباقي الأزرار تقف."
+    "ضغطة العربية تقرأ الحالة بس: شريط ثم لون الاتصال."
   ]
 }
