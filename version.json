@@ -1,9 +1,9 @@
 {
-  "versionCode": 4600,
-  "versionName": "4.6.0",
+  "versionCode": 4700,
+  "versionName": "4.7.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.6.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.7.0.apk",
   "notes": [
-    "الأوفلاين اتشال. الأوامر أونلاين بس على مفاتيح الأصل."
+    "شاشة الترحيب اتشالت. القفل والفتح بقوا على ترتيب الأصل."
   ]
 }
