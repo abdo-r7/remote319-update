@@ -1,9 +1,9 @@
 {
-  "versionCode": 3980,
-  "versionName": "3.98.0",
+  "versionCode": 3990,
+  "versionName": "3.99.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.98.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.99.0.apk",
   "notes": [
-    "شريط الحالة بقى خانة فوق الأزرار من غير تداخل."
+    "العنوان في صف الأيقونات، والعربية أعلى، وشريط التحميل متحرك."
   ]
 }
