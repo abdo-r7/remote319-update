@@ -1,9 +1,9 @@
 {
-  "versionCode": 4300,
-  "versionName": "4.3.0",
+  "versionCode": 4400,
+  "versionName": "4.4.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.3.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.4.0.apk",
   "notes": [
-    "المايك يتكلم من غير كيبورد."
+    "الأمر ما يقفش على ظرف مش موجود في الأصل، والأوفلاين من أيقونة السحابة."
   ]
 }
