@@ -1,9 +1,9 @@
 {
-  "versionCode": 3990,
-  "versionName": "3.99.0",
+  "versionCode": 4000,
+  "versionName": "4.0.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.99.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.0.0.apk",
   "notes": [
-    "العنوان في صف الأيقونات، والعربية أعلى، وشريط التحميل متحرك."
+    "شريط التحميل يكمل فقط لما الأمر يتنفّذ."
   ]
 }
