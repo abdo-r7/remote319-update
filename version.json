@@ -1,9 +1,9 @@
 {
-  "versionCode": 3970,
-  "versionName": "3.97.0",
+  "versionCode": 3980,
+  "versionName": "3.98.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.97.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.98.0.apk",
   "notes": [
-    "ضغطة العربية تقرأ الحالة بس: شريط ثم لون الاتصال."
+    "شريط الحالة بقى خانة فوق الأزرار من غير تداخل."
   ]
 }
