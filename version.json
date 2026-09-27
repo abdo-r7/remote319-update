@@ -1,9 +1,9 @@
 {
-  "versionCode": 3950,
-  "versionName": "3.95.0",
+  "versionCode": 3960,
+  "versionName": "3.96.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.95.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-3.96.0.apk",
   "notes": [
-    "الأمر ما يتبعتش تاني غير لما النبضة تخلّص، والأوفلاين ضغطة واحدة."
+    "الزر يفضل لونه خارج لحد ما النبضة تخلّص، وباقي الأزرار تقف."
   ]
 }
