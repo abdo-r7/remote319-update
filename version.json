@@ -1,9 +1,9 @@
 {
-  "versionCode": 4500,
-  "versionName": "4.5.0",
+  "versionCode": 4600,
+  "versionName": "4.6.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.5.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.6.0.apk",
   "notes": [
-    "نبضة الأبواب على ورقة h زي الأصل، والزر يبعت حتى لو الحالة محفوظة."
+    "الأوفلاين اتشال. الأوامر أونلاين بس على مفاتيح الأصل."
   ]
 }
