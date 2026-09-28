@@ -1,9 +1,9 @@
 {
-  "versionCode": 41010,
-  "versionName": "4.10.1",
+  "versionCode": 41100,
+  "versionName": "4.11.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.10.1.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.11.0.apk",
   "notes": [
-    "إصلاح رقم التحديث عشان يظهر في الفحص. القيادة والإيقاف دفعة واحدة."
+    "التشغيل يقلل الباب ثم يسلّح زر التشغيل قبل رفع المحرك. الشريط ما يكمّلش إلا لو الوحدة مسكت الزر."
   ]
 }
