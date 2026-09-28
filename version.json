@@ -1,9 +1,9 @@
 {
-  "versionCode": 42400,
-  "versionName": "4.24.0",
+  "versionCode": 42500,
+  "versionName": "4.25.0",
   "size": 1545282,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.24.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.25.0.apk",
   "notes": [
-    "رسمة نيسان سنترا ليلية بأنيميشن أبواب وعجلات ومحرك. أوامر الوحدة زي الوصفة."
+    "نيسان سنترا جانبية: أبواب وشنطة وعجلات وأنوار تتحرك مع الحالة. أوامر الوحدة زي الوصفة من غير أي تغيير."
   ]
 }
