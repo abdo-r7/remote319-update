@@ -1,9 +1,9 @@
 {
-  "versionCode": 4700,
-  "versionName": "4.7.0",
+  "versionCode": 4800,
+  "versionName": "4.8.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.7.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.8.0.apk",
   "notes": [
-    "شاشة الترحيب اتشالت. القفل والفتح بقوا على ترتيب الأصل."
+    "تشغيل وإيقاف المحرك بنفس ترتيب البرنامج الأصلي، من غير بصمة ومن غير ضغطة ثانية."
   ]
 }
