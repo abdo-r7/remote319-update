@@ -1,9 +1,9 @@
 {
-  "versionCode": 4100,
-  "versionName": "4.10.0",
+  "versionCode": 41010,
+  "versionName": "4.10.1",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.10.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.10.1.apk",
   "notes": [
-    "القيادة والإيقاف يتنفّذان بوصفة القفل: ظرف ثم صفر ثم واحد في دفعة واحدة."
+    "إصلاح رقم التحديث عشان يظهر في الفحص. القيادة والإيقاف دفعة واحدة."
   ]
 }
