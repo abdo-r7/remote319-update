@@ -1,11 +1,9 @@
 {
-  "versionCode": 42100,
-  "versionName": "4.21.0",
+  "versionCode": 42200,
+  "versionName": "4.22.0",
   "size": 1520706,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.21.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.22.0.apk",
   "notes": [
-    "الاتصال من آخر قراءة للسحابة مش من عمر المكان.",
-    "القيادة دفعة واحدة والسلف ثانيتين.",
-    "أزرار الأوفلاين بنفس شكل الأونلاين."
+    "صفحة الأوفلاين رجعت تظهر."
   ]
 }
