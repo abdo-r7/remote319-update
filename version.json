@@ -1,9 +1,9 @@
 {
-  "versionCode": 41300,
-  "versionName": "4.13.0",
-  "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.13.0.apk",
+  "versionCode": 41400,
+  "versionName": "4.14.0",
+  "size": 1541186,
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.14.0.apk",
   "notes": [
-    "واجهة أزرق غامق. المحرك بنفس ترتيب القفل."
+    "الواجهة أوضح. زر الباب يتبدل بين قفل وفتح. المحرك على وصفة التشغيل الأصلية."
   ]
 }
