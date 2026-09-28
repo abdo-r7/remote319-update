@@ -1,9 +1,9 @@
 {
-  "versionCode": 4800,
-  "versionName": "4.8.0",
+  "versionCode": 4900,
+  "versionName": "4.9.0",
   "size": 1537090,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.8.0.apk",
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.9.0.apk",
   "notes": [
-    "تشغيل وإيقاف المحرك بنفس ترتيب البرنامج الأصلي، من غير بصمة ومن غير ضغطة ثانية."
+    "زر التشغيل يفضل مرفوع ٤ ثوانٍ بعد نبضة نازلة، وأزرار المحرك ما تتقفلش."
   ]
 }
