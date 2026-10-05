@@ -1,9 +1,10 @@
 {
-  "versionCode": 43400,
-  "versionName": "4.34.0",
-  "size": 1590556,
-  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/Remote319-4.34.0.apk",
+  "versionCode": 10003,
+  "versionName": "1.0.3",
+  "size": 58898990,
+  "url": "https://raw.githubusercontent.com/abdo-r7/remote319-update/main/cardroid-smart-qr-production1.0.3.apk",
+  "sha256": "0b4f5fa6ba6c839c0f9e3d6ceb832a6f9f635fa1ab59e41924df42e0e477fb29",
   "notes": [
-    "نبضة المحرك زي نبضة القفل: صفر ثم واحد، قيادة مش تسخين، سلف ٤ ثواني."
+    "الإصدار الأساسي الأصلي cardroid-smart-qr-production 1.0.3."
   ]
 }
