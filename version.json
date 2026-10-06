@@ -1,10 +1,10 @@
 {
-  "versionCode": 10013,
-  "versionName": "1.0.13",
-  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.13/cardroid-smart-1.0.13.apk",
+  "versionCode": 10014,
+  "versionName": "1.0.14",
+  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.14/cardroid-smart-1.0.14.apk",
   "projectId": "cardroid-319",
   "controlId": "319",
   "notes": [
-    "إزالة شريط العنوان المكرر."
+    "الاتصال يعتمد على الواي فاي وعلم الاتصال. النبضة تبقى ظاهرة وحدها."
   ]
 }
