@@ -1,10 +1,10 @@
 {
-  "versionCode": 10011,
-  "versionName": "1.0.11",
-  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.11/cardroid-smart-1.0.11.apk",
+  "versionCode": 10012,
+  "versionName": "1.0.12",
+  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.12/cardroid-smart-1.0.12.apk",
   "projectId": "cardroid-319",
   "controlId": "319",
   "notes": [
-    "زر تشغيل المحرك على h/drive بدون تسخين."
+    "زر تأمين المحرك وزر إيقاف التأمين على h/security."
   ]
 }
