@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#071018" />
+  <title>CarDroid Smart</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <style>
+    :root { color-scheme: dark; --bg:#071018; --card:#10202b; --line:#1c3342; --teal:#1ec9c0; --text:#e8f4f2; --muted:#8aa3ad; --red:#e11d2e; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family: Tahoma, sans-serif; background:radial-gradient(circle at 50% 0, #123043, var(--bg) 55%); color:var(--text); }
+    main { max-width: 430px; margin: 0 auto; padding: 22px 18px 28px; }
+    h1 { margin: 0; text-align:center; letter-spacing:.4px; font-size: 28px; }
+    h1 span { color: var(--teal); }
+    .status { margin: 16px auto; border:1px solid var(--line); background:var(--card); border-radius: 16px; padding: 12px 14px; display:flex; justify-content:space-between; gap:12px; }
+    .dot { width:10px; height:10px; border-radius:50%; display:inline-block; margin-left:6px; background:var(--red); }
+    .dot.on { background:#3dd68c; }
+    .grid { display:grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    button { border:0; border-radius: 18px; padding: 18px 12px; color:white; background:#143240; font: inherit; font-weight: 700; }
+    button:active { transform: scale(.98); }
+    button.primary { background: var(--teal); color:#042226; }
+    button.warn { background:#3a1c24; color:#ffd0d6; }
+    .wide { grid-column: 1 / -1; }
+    p { color: var(--muted); text-align:center; font-size: 13px; line-height: 1.6; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Car<span>Droid</span> Smart</h1>
+    <div class="status">
+      <div><span id="dot" class="dot"></span><b id="link">غير متصل</b></div>
+      <div id="wifi">الواي فاي: —</div>
+    </div>
+    <div class="grid">
+      <button class="primary" onclick="cmd('lock',1)">إغلاق الأبواب</button>
+      <button onclick="cmd('unlock',1)">فتح الأبواب</button>
+      <button onclick="cmd('horn',true)">الكلاكس</button>
+      <button onclick="cmd('lights',1)">الإضاءة</button>
+      <button onclick="cmd('bag',1)">الشنطة</button>
+      <button onclick="cmd('map',true)">الخريطة</button>
+      <button class="warn wide" onclick="engineOff()">إغلاق المحرك</button>
+    </div>
+    <p id="msg">مربوط بـ cardroid-319 / الجهاز 319. الحالة تعتمد على نبضة الوحدة.</p>
+  </main>
+  <script>
+    const base = "https://cardroid-319-default-rtdb.firebaseio.com";
+    async function read() {
+      const res = await fetch(base + "/h.json");
+      const h = await res.json() || {};
+      const fresh = Number(h.onlineAt) > 0 && Date.now() - Number(h.onlineAt) < 15000;
+      const on = h.connect === true && h.wificonnected === true && fresh;
+      document.getElementById("dot").className = "dot" + (on ? " on" : "");
+      document.getElementById("link").textContent = on ? "متصل" : "السيارة غير متصلة بالانترنت";
+      document.getElementById("wifi").textContent = "الواي فاي: " + (h.wificonnected ? (h.wifiName || "متصل") : "غير متصل");
+    }
+    async function cmd(key, v) {
+      const t = Date.now();
+      await fetch(base + "/.json", { method:"PATCH", headers:{ "Content-Type":"application/json" }, body: JSON.stringify({
+        ["h/" + key]: v,
+        ["319/" + key]: v,
+        ["319/h/h_" + key]: { cmd: "h/" + key, t, v }
+      })});
+      document.getElementById("msg").textContent = "أُرسل " + key;
+    }
+    async function engineOff() {
+      const t = Date.now();
+      await fetch(base + "/.json", { method:"PATCH", headers:{ "Content-Type":"application/json" }, body: JSON.stringify({
+        "h/drive": 0, "h/marsh": 0, "h/security": 1,
+        "319/h/h_drive": { cmd:"h/drive", t, v:0 },
+        "319/h/h_marsh": { cmd:"h/marsh", t, v:0 },
+        "319/h/h_security": { cmd:"h/security", t, v:1 }
+      })});
+      document.getElementById("msg").textContent = "أُرسل إغلاق المحرك";
+    }
+    read();
+    setInterval(read, 3000);
+  </script>
+</body>
+</html>
