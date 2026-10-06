@@ -1,10 +1,10 @@
 {
-  "versionCode": 10023,
-  "versionName": "1.0.23",
-  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.23/cardroid-smart-1.0.23.apk",
+  "versionCode": 10024,
+  "versionName": "1.0.24",
+  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.24/cardroid-smart-1.0.24.apk",
   "projectId": "cardroid-319",
   "controlId": "319",
   "notes": [
-    "عدم عرض موقع الواي فاي القديم، وإخفاء الحرارة والاتجاه غير الصالحين."
+    "عرض نقطة الواي فاي كموقع تقريبي بدل إخفائها."
   ]
 }
