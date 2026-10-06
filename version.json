@@ -1,10 +1,10 @@
 {
-  "versionCode": 10025,
-  "versionName": "1.0.25",
-  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.25/cardroid-smart-1.0.25.apk",
+  "versionCode": 10026,
+  "versionName": "1.0.26",
+  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.26/cardroid-smart-1.0.26.apk",
   "projectId": "cardroid-319",
   "controlId": "319",
   "notes": [
-    "تحديث الحالة فور إرسال الأمر، والفتح يكتب h/lock أيضاً."
+    "شاشة محرك مستقلة مع تأكيد التشغيل وسجل أوامر المحرك."
   ]
 }
