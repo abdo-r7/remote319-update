@@ -1,9 +1,10 @@
 {
-  "versionCode": 10005,
-  "versionName": "1.0.5",
-  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.5/cardroid-smart-1.0.5.apk",
+  "versionCode": 10006,
+  "versionName": "1.0.6",
+  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.6/cardroid-smart-1.0.6.apk",
   "projectId": "cardroid-319",
-  "databaseURL": "https://cardroid-319-default-rtdb.firebaseio.com",
   "controlId": "319",
-  "notes": ["نسخة مربوطة مباشرة بـ cardroid-319 والجهاز 319."]
+  "notes": [
+    "واجهة أوضح للنبضة والواي فاي وعلم الاتصال."
+  ]
 }
