@@ -1,10 +1,10 @@
 {
-  "versionCode": 10021,
-  "versionName": "1.0.21",
-  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.21/cardroid-smart-1.0.21.apk",
+  "versionCode": 10022,
+  "versionName": "1.0.22",
+  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.22/cardroid-smart-1.0.22.apk",
   "projectId": "cardroid-319",
   "controlId": "319",
   "notes": [
-    "إصلاح opt is not defined الذي أوقف القراءة."
+    "إصلاح showPoint is not defined الذي أوقف اكتمال القراءة."
   ]
 }
