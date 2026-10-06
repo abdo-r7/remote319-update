@@ -1,10 +1,10 @@
 {
-  "versionCode": 10009,
-  "versionName": "1.0.9",
-  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.9/cardroid-smart-1.0.9.apk",
+  "versionCode": 10010,
+  "versionName": "1.0.10",
+  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.10/cardroid-smart-1.0.10.apk",
   "projectId": "cardroid-319",
   "controlId": "319",
   "notes": [
-    "واجهة أحدث مع بطاقة حالة وتحديث لحظي وخريطة."
+    "أيقونات تفاعلية للأوامر والتحديث والخريطة."
   ]
 }
