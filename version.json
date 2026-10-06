@@ -1,10 +1,10 @@
 {
-  "versionCode": 10014,
-  "versionName": "1.0.14",
-  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.14/cardroid-smart-1.0.14.apk",
+  "versionCode": 10015,
+  "versionName": "1.0.15",
+  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.15/cardroid-smart-1.0.15.apk",
   "projectId": "cardroid-319",
   "controlId": "319",
   "notes": [
-    "إعدادات قفل البرنامج بالبصمة والرقم السري."
+    "الاتصال يعتمد على واي فاي الوحدة، والنبضة تظهر غير مدعومة إذا لم تكتبها."
   ]
 }
