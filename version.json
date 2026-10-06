@@ -1,10 +1,10 @@
 {
-  "versionCode": 10019,
-  "versionName": "1.0.19",
-  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.19/cardroid-smart-1.0.19.apk",
+  "versionCode": 10020,
+  "versionName": "1.0.20",
+  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.20/cardroid-smart-1.0.20.apk",
   "projectId": "cardroid-319",
   "controlId": "319",
   "notes": [
-    "استبدال خانة باب مفتوح بحالة الكلاكس."
+    "السماح بقراءة القاعدة من داخل التطبيق وإظهار خطأ القراءة."
   ]
 }
