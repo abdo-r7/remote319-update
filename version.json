@@ -1,9 +1,9 @@
 {
-  "versionCode": 10004,
-  "versionName": "1.0.4",
-  "url": "https://abdo-r7.github.io/remote319-update/web/",
-  "notes": [
-    "نسخة ويب مربوطة بـ cardroid-319 والجهاز 319.",
-    "حالة الاتصال تعتمد على نبضة الوحدة، بدون كتابة اتصال وهمية."
-  ]
+  "versionCode": 10005,
+  "versionName": "1.0.5",
+  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.5/cardroid-smart-1.0.5.apk",
+  "projectId": "cardroid-319",
+  "databaseURL": "https://cardroid-319-default-rtdb.firebaseio.com",
+  "controlId": "319",
+  "notes": ["نسخة مربوطة مباشرة بـ cardroid-319 والجهاز 319."]
 }
