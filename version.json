@@ -1,10 +1,10 @@
 {
-  "versionCode": 10027,
-  "versionName": "1.0.27",
-  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.27/cardroid-smart-1.0.27.apk",
+  "versionCode": 10028,
+  "versionName": "1.0.28",
+  "url": "https://github.com/abdo-r7/remote319-update/releases/download/cardroid-smart-1.0.28/cardroid-smart-1.0.28.apk",
   "projectId": "cardroid-319",
   "controlId": "319",
   "notes": [
-    "إصلاح زر المحرك، طلب البصمة عند الفتح، وإعدادات أوضح."
+    "حالات اتصال ثلاث، استماع لحظي، وواجهة أوضح."
   ]
 }
